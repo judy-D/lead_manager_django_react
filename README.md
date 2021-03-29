@@ -11,6 +11,6 @@ Then, run:
 
 > cd leadmanager
 
-> pip install
+> pip install -r requirements.txt
 
 > python manage.py runserver 
